@@ -1,0 +1,1 @@
+"""CareGuard Bharat Backend Application"""
